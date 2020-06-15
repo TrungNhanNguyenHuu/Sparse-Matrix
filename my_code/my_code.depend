@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552976880 source:d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_001\my_code\main.cpp
+	<fstream>
+	"SparseMatrix.h"
+
+1552832565 d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_001\my_code\sparsematrix.h
+	"Element.h"
+
+1550965101 d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_001\my_code\element.h
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1553236982 source:d:\hk182dkbknam2hk2\a_datastructures_and_algorithm\assignment\assignment_001\my_code\sparsematrix.cpp
+	"SparseMatrix.h"
+
